@@ -1,25 +1,25 @@
-VIDEO QUE É NESCESSARIO PARA OA COMANDOS BÁSICOS DO TERMUX, MAS ELES AINDA NÃO SÃO DE SUMA IMPORTÂNCIA PARA O BOT, MAS SIM PARA A INICIALIZAÇÃO DELE, O TERMUX NÃO É UM BOT OU O BOT, SÓ DEIXAR ISSO CLARO...
+Comados de instalação da KOMI-MDV2 abaixo
 
-VIDEO : https://youtu.be/OiWcm9INzXE
+1- termux-setup-storage
 
+Vc vai permitir ele acessa seu armazenamedo do seu aparelho
 
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+2- pkg upgrade && pkg update && pkg install nodejs && pkg install nodejs-lts && pkg install wget && pkg install ffmpeg && pkg install git
 
-APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA INSTALAR A PASTA NO ARMAZENAMENTO INTERNO :
+Do you want to continue? [Y/n]
 
-1_ COMANDO : 
+Au parece isso vc só preciona Y e Enter para continuar
 
-cd /sdcard && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md
+Copie o link dessa pagina e cola no termux
 
-COLE EXATAMENTE DESSA FÓRMA E JUNTO ASSIM.. 
+git clone https://github.com/Samunerobottsy/Komi-BOT
 
-2_ COMANDO :
+Caso queira bota o arquivo em certo local der
 
-sh start.sh 
+cd /sdcard/Download por exemplo
 
+E logo der o git clone e link do repositório 😉
 
-ESSE COMANDO É PARA LIGAR, AE VAI GERAR O QRCODE, VOCÊ PRECISARÁ DE UM SEGUNDO CELULAR PARA TIRAR FOTO DO QRCODE, LÓGO DEPOIS, ESCANEAR A FOTO QUE TIROU COM UM WHATSAPP SECUNDÁRIO QUE CONTENHA UM NÚMERO CLARO.., PARA ELE SERVIR DE BOT.. 
+E der npm start ou sh start.sh tanto faz e escanei o QR com outro celular ou apenas tira uma foto para escaneia no seu celular no whatsapp do bot lá em parelho conectado ou whatsapp web
 
-QUALQUER PROBLEMA QUE CONTER, ENTRA NO GRUPO DO COMENTÁRIO FIXADO, DO VIDEO MAIS ATUALIZADO, IREI ATUALIZAR SEMPRE QUE EU PODER.. 
-
-
+Finalizando
